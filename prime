@@ -4,11 +4,11 @@ on:
   workflow_dispatch:
     inputs:
       agent_name:
-        description: 'Agent Name'
+        description: 'prime'
         required: true
         default: 'prime'
       agent_description:
-        description: 'Agent Description'
+        description: 'prime'
         required: true
         default: 'prime AI Agent'
 
